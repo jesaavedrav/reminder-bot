@@ -2,11 +2,20 @@
     "greetings": [
         "Hey guys! Time to stretch a bit!",
         "Are you insane? That back must be killing you!",
-        "Hello World!"
+        "Hello World!",
+        "How is it going everyone!!!",
+        "Hey! Before you commit that feature.",
+        "Hey! How's everything",
+        "It's been a while!",
+        "Long time no see!",
+        "Keyboards down!"
     ],
     "facts": [
         "The part of the brain that processes movement is the same part of the brain that processes learning.",
-        "Exercise works similar to medication in treating anxiety and depression, but with less side effects."
+        "Exercise works similar to medication in treating anxiety and depression, but with less side effects.",
+        "Stress damages cognition and motor skills.",
+        "Chronic stress decreases the immune system and brain functions over time.",
+        "Vision is by far our most dominant sense, taking up one-half of our brain's resources."
     ],
     "videos": [
         {
@@ -14,12 +23,52 @@
             "url": "https://www.youtube.com/watch?v=xxrScQnOj3k&ab_channel=UberneyGarciaUberneyGarcia"
         },
         {
-            "name": "Active pauses for kids - If they can do it you can do it too",
-            "url": "https://www.youtube.com/watch?v=JoF_d5sgGgc&ab_channel=UJUvideosUJUvideos"
-        },
-        {
             "name": "Exercises at home!",
             "url": "https://www.youtube.com/watch?v=cnvJYsBk8eo&ab_channel=SportCardiffSportCardiff"
+        },
+        {
+            "name": "Ejercicios de manos y muñecas",
+            "url": "https://www.youtube.com/watch?v=WnGvwhxUSaI"
+        },
+        {
+            "name": "Bienestar para tu cuerpo con estas pausas activas divertidas",
+            "url": "https://www.youtube.com/watch?v=FotB5bu1cMg"
+        },
+        {
+            "name": "Pausas activas: Relaja tus hombros y tómate un tiempo divertido",
+            "url": "https://www.youtube.com/watch?v=zmM1q4zJ-4M"
+        },
+        {
+            "name": "Cuida tu salud con estos ejercicios de pausas activas",
+            "url": "https://www.youtube.com/watch?v=2kDbO8eWRxI"
+        },
+        {
+            "name": "Pausas activas: Relaja tus hombros y tómate un tiempo divertido",
+            "url": "https://www.youtube.com/watch?v=zmM1q4zJ-4M"
+        },
+        {
+            "name": "Pausas activas: Renueva tu energia con los mejores ejercicios",
+            "url": "https://www.youtube.com/watch?v=Xg2KYvIVZak"
+        },
+        {
+            "name": "Pausas activas: Relaja tus hombros y tómate un tiempo divertido",
+            "url": "https://www.youtube.com/watch?v=zmM1q4zJ-4M"
+        },
+        {
+            "name": "Pausas activas en teletrabajo: Consejos de ergonomia durante la jornada laboral",
+            "url": "https://www.youtube.com/watch?v=TRU1z_DVkk0"
+        },
+        {
+            "name": "Seguridad y Salud: teletrabajo y ergonomīa",
+            "url": "https://www.youtube.com/watch?v=URqVKfVzmzI"
+        },
+        {
+            "name": "Pausas saludables: Abdomen y espalda",
+            "url": "https://www.youtube.com/watch?v=IOiVPdGGC6E"
+        },
+        {
+            "name": "Pausas saludables: Manos y codos",
+            "url": "https://www.youtube.com/watch?v=RooKAegD7Lo"
         }
     ],
     "quotes": [
@@ -32,8 +81,48 @@
             "author": "John Wooden"
         },
         {
-            "quote": "Don’t watch the clock; do what it does. Keep going.",
+            "quote": "Don’t watch the clock, do what it does. Keep going.",
             "author": "Sam Levenson"
+        },
+        {
+            "quote": "Go as far as you can see. When you get there, you’ll be able to see further.",
+            "author": "Thomas Carlyle"
+        },
+        {
+            "quote": "Your talent determines what you can do. Your motivation determines how much you’re willing to do. Your attitude determines how well you do it.",
+            "author": "Lou Holtz"
+        },
+        {
+            "quote": "The individual who says it is not possible should move out of the way of those doing it.",
+            "author": "Tricia Cunningham"
+        },
+        {
+            "quote": "A year from now you may wish you had started today.",
+            "author": "Karen Lamb"
+        },
+        {
+            "quote": "Light tomorrow with today.",
+            "author": "Elizabeth Barrett Browning"
+        },
+        {
+            "quote": "Everywhere is here and every when is now.",
+            "author": "Dante Alighieri"
+        },
+        {
+            "quote": "Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.",
+            "author": "Earl Nightingale"
+        },
+        {
+            "quote": "Someday is not a day of the week.",
+            "author": "Janet Dailey"
+        },
+        {
+            "quote": "Make each day your masterpiece.",
+            "author": "John Wooden"
+        },
+        {
+            "quote": "Don’t count the days, make the days count.",
+            "author": "Muhammad Ali"
         }
     ]
 }
