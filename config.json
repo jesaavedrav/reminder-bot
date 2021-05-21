@@ -1,0 +1,5 @@
+{
+    "BOT_TOKEN": "BOT_TOKEN",
+    "CHANNEL_ID": "CHANNEL_ID",
+    "CRON_FREQUENCY": "00 00 10,12,14,16 * * 1-5"
+}
