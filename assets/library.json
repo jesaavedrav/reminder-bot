@@ -1,0 +1,39 @@
+{
+    "greetings": [
+        "Hey guys! Time to stretch a bit!",
+        "Are you insane? That back must be killing you!",
+        "Hello World!"
+    ],
+    "facts": [
+        "The part of the brain that processes movement is the same part of the brain that processes learning.",
+        "Exercise works similar to medication in treating anxiety and depression, but with less side effects."
+    ],
+    "videos": [
+        {
+            "name": "Active pauses with Uberney Garcia",
+            "url": "https://www.youtube.com/watch?v=xxrScQnOj3k&ab_channel=UberneyGarciaUberneyGarcia"
+        },
+        {
+            "name": "Active pauses for kids - If they can do it you can do it too",
+            "url": "https://www.youtube.com/watch?v=JoF_d5sgGgc&ab_channel=UJUvideosUJUvideos"
+        },
+        {
+            "name": "Exercises at home!",
+            "url": "https://www.youtube.com/watch?v=cnvJYsBk8eo&ab_channel=SportCardiffSportCardiff"
+        }
+    ],
+    "quotes": [
+        {
+            "quote": "Perfection is not attainable but if we chase perfection we can catch excellence.",
+            "author": "Vince Lombardi"
+        },
+        {
+            "quote": "Do not let what you cannot do interfere with what you can do.",
+            "author": "John Wooden"
+        },
+        {
+            "quote": "Don’t watch the clock; do what it does. Keep going.",
+            "author": "Sam Levenson"
+        }
+    ]
+}
