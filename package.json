@@ -1,6 +1,6 @@
 {
   "name": "montran-ohs-bot",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Montran OHS Bot",
   "main": "app.js",
   "scripts": {
