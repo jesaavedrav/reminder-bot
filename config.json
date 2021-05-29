@@ -1,5 +1,8 @@
 {
     "BOT_TOKEN": "BOT_TOKEN",
     "CHANNEL_ID": "CHANNEL_ID",
+    "LIBRARY_PATH": "./assets/library.json",
+    "HOLIDAYS_PATH": "./assets/holidays.json",
+    "FESTIVITIES_PATH": "./assets/festivities.json",
     "CRON_FREQUENCY": "00 00 10,12,14,16 * * 1-5"
 }

@@ -1,0 +1,52 @@
+[
+    {
+        "name": "New Year",
+        "date": "01/01/2021",
+        "shouldRest": true
+    },
+    {
+        "name": "Carnival",
+        "date": "16/02/2021",
+        "shouldRest": true
+    },
+    {
+        "name": "Holy Friday",
+        "date": "02/04/2021",
+        "shouldRest": true
+    },
+    {
+        "name": "Worker's Day",
+        "date": "30/04/2021",
+        "shouldRest": true
+    },
+    {
+        "name": "Pichincha's Battle",
+        "date": "24/05/2021",
+        "shouldRest": true
+    },
+    {
+        "name": "Primer Grito de la Independencia",
+        "date": "09/08/2021",
+        "shouldRest": true
+    },
+    {
+        "name": "Dia de los fieles Difuntos",
+        "date": "01/11/2021",
+        "shouldRest": true
+    },
+    {
+        "name": "Independencia de Cuenca",
+        "date": "02/11/2021",
+        "shouldRest": true
+    },
+    {
+        "name": "Fundacion de Quito",
+        "date": "06/12/2021",
+        "shouldRest": true
+    },
+    {
+        "name": "Navidad",
+        "date": "24/12/2021",
+        "shouldRest": true
+    }
+]
