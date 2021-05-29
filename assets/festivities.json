@@ -1,0 +1,13 @@
+[
+    {
+        "type":"BIRTHDAY",
+        "reason": "Jorge Saavedra's Birthday",
+        "date": "14/08"
+    },
+    {
+        "type":"ANNUAL_FESTIVITY",
+        "reason": "Valentine's Day",
+        "date": "14/02",
+        "message": "Happy Valentine's Day!!"
+    }
+]
