@@ -7,6 +7,7 @@ To initialize this project. Please do the following.
 In the config.js file replace the dummy content for your actual keys:
 
 > "BOT_TOKEN"
+
 > "CHANNEL_ID"
 
 **NEVER PUSH YOUR ACTUAL KEYS TO A REPOSITORY!!!!**
@@ -32,6 +33,12 @@ npm install
 ```
 
 and
+
+```bash
+node app.js
+```
+
+Run tests using:
 
 ```bash
 node app.js
