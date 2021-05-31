@@ -1,0 +1,7 @@
+{
+    "BOT_TOKEN": "BOT_TOKEN.YLVocg.m7GKkmb0fDnYSEUccvYhGQT7b5E",
+    "CHANNEL_ID": "CHANNEL_ID",
+    "LIBRARY_PATH": "./assets/library.json",
+    "HOLIDAYS_PATH": "./assets/holidays.json",
+    "FESTIVITIES_PATH": "./assets/festivities.json"
+}
