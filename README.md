@@ -41,7 +41,7 @@ node app.js
 Run tests using:
 
 ```bash
-node app.js
+npm run test
 ```
 
 Enjoy reminding something to your team!
