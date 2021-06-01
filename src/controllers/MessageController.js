@@ -1,4 +1,5 @@
 const { buildMessage } = require('../services/MessageService')
+const { logError } = require('../utils/LogUtils')
 
 /**
  * 
